@@ -1,4 +1,4 @@
-<h1><img src="assets/branding/kafeyn.png" alt="Kafeyn" width="500"> <br>
+<h1><img src="assets/branding/kafeyn.png" alt="Kafeyn" width="250"> <br>
 (Anass)</h1>
 
 Research-oriented developer focusing my studies on Artificial Intelligence, Data Science, and Big Data technologies.
